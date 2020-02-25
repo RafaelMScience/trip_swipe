@@ -2,6 +2,8 @@
 
 Trip UI with Swipe
 
+Project Voltado mostrando 3 telas uma com cada imagem e so passar para o lado 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
